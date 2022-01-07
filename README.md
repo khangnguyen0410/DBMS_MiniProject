@@ -1,4 +1,3 @@
 # DBMS_MiniProject
-Use Java (Swing) Language for Project
-JDK 13
+Use Java (Swing) Language and
 SQL Workbench for Database 
